@@ -1,0 +1,1 @@
+# sonar-ansible-centos7
